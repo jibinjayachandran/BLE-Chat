@@ -1,2 +1,2 @@
 # myapp
-a sample project
+a sample application for bluetooth low energy chat
